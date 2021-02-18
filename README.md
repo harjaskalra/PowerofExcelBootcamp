@@ -1,2 +1,13 @@
 # Power of Excel Bootcamps
-I would like to thank the team at Ryerson Bootcamps for giving me the opportunity to achieve the Power of Excel certfication by completing three levels in the Excel bootcamps. Participating in the three bootcamps allowed for me to enhance my skills using Microsoft Excel by learning new approaches to use Excel to collect information needed to solve different business problems.
+The Power of Excel Badge is awarded to individuals who have completed Levels 1 - 3 in a Power of Excel bootcamp since May 2019. Some of the functions that are covered in these Bootcamps include:
+
+Some of the technical functions covered in the Bootcamps include:
+- VLOOKUP MATCH
+- INDEX MATCH
+- SUM of an INDEX MATCH
+- Drop down lists
+- CONCATENATE/CONCAT
+- Logical functions like AND
+- IF statements
+- Organizing large amounts of data using PivotTables, PivotCharts, tables, slicers, charts
+Link to Certification: https://trsmcredentials.ryerson.ca/783d8eae-5bc6-487f-be8c-c0ffc438fddb
